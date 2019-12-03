@@ -1,0 +1,10 @@
+1)Cambiar el nombre de los index. 
+2)Títulos informativos y cortos. 
+3)Mejorar los nombres de los archivos fotos.
+4)Acomodar las fotos juntas en una carpeta, el index y las otras capretas aparte. 
+5)Achicar el peso de las imágenes. 
+6)Poner la descripción alt en las fotografías.
+7)Keywords en el meta. 
+8)Cambio de nombre de las etiquetas del código del index.
+9)Crear la página 404.
+10)Nombre y estructura Url.
